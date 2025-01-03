@@ -19,7 +19,7 @@ HTML for structure.
 CSS and Bootstrap for styling and responsiveness.
 JavaScript for interactivity and game logic.
 
-🔗 Live Demo: [Your GitHub Pages Link Here]
-📂 Repository: [Repository Link]
+
+📂 Repository: [https://venu1011.github.io/Guess-The-Number-Game/]
 
 Feel free to fork, clone, or contribute! 😊
